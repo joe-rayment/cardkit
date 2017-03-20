@@ -45,8 +45,8 @@ angular.module("cardkitApp", ["ngAnimate", "ngCookies", "ngResource", "ngRoute",
     if (a.config = {
             sizes: [{
                 name: "Facebook",
-                width: 800,
-                height: 370,
+                width: 600,
+                height: 315,
                 "default": !0
             }, {
                 name: "Twitter",
